@@ -1,0 +1,27 @@
+{
+  "name": "object-2darray",
+  "version": "0.0.1",
+  "description": "This module takes an object and returns a 2d array and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/object-2darray.git"
+  },
+  "keywords": [
+    "object",
+    "2darray",
+    "transform",
+    "pairs",
+    "keys",
+    "values"
+  ],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/object-2darray/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/object-2darray#readme"
+}
